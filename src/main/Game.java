@@ -4,7 +4,6 @@ import net.Draw;
 import net.Map;
 
 import javax.swing.*;
-import java.util.TimerTask;
 
 public class Game {
     public static JFrame window;
